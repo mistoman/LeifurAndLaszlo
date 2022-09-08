@@ -4,3 +4,14 @@ body {
     padding: 30px;
 }
 
+.container-for-box-1 {
+    display: flex;
+}
+
+.box {
+    
+width: 33%;
+background-color: red;
+gap: 10px;
+
+}
