@@ -6,12 +6,29 @@ body {
 
 .container-for-box-1 {
     display: flex;
+    gap: 20px;
+    padding-bottom: 30px;
 }
 
 .box {
-    
+
 width: 33%;
 background-color: red;
-gap: 10px;
+height: 230px;
+justify-content: center;
 
 }
+
+.container-for-box-2 {
+    display: flex;
+    gap: 20px;
+    
+}
+
+.box-b {
+
+    width: 50%;
+    background-color: red;
+    height: 360px;
+    
+    }
